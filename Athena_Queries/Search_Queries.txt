@@ -1,0 +1,3 @@
+SELECT * FROM "data_lake_project"."accelerometer_landing" limit 10;
+SELECT * FROM "data_lake_project"."customer_landing" limit 10;
+SELECT * FROM "data_lake_project"."step_trainer_landing" limit 10;
